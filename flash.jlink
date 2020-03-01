@@ -1,0 +1,4 @@
+r
+loadfile program.hex
+r
+q
